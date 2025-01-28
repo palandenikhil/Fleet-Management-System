@@ -1,1 +1,2 @@
 # Fleet-Management-System
+Fleet Management System (FLEMAN) is a web-based platform for a Rental Car Service company. It enables customers to book vehicles by selecting towns, car types, pick-up points, and dates, with payment through credit cards. Office staff can manage bookings, hand-overs, returns, and generate bills while updating car details like fuel status and condition. The system ensures seamless rental management, allowing discounts, service tracking, and contract handling.
